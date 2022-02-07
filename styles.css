@@ -1,0 +1,47 @@
+html{
+	font-size: 62.5%;
+}
+
+body{
+	margin: 0rem;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2rem;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 6rem;
+	text-transform: uppercase;
+	margin: 0rem;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 5.5rem;
+
+}
+
+h3{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 5rem;
+}
+
+h4{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 4.5rem;
+}
+
+h5{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 4rem;
+	margin: 0rem;
+}
+
+h6{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 3.5rem;
+}
+
+a {
+	text-decoration: none;
+}

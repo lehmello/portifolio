@@ -1,0 +1,20 @@
+.menu-content{
+	max-width: 120rem;
+	margin: 0 auto;
+}
+
+.section1 {
+	min-height: 100vh;
+}
+
+.sobre {
+	max-width: 120rem;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 3rem;
+}
+
+.eu-img{
+text-align: center;
+}
