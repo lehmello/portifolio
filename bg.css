@@ -10,3 +10,11 @@
 .bgwhite{
 	background: #FFFFFF;
 }
+
+.bg2{
+	background-color: #150023;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23150023' cx='50' cy='0' r='50'/%3E%3Cg fill='%231a002b' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%231e0134' cx='50' cy='100' r='50'/%3E%3Cg fill='%2323013c' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23270144' cx='50' cy='200' r='50'/%3E%3Cg fill='%232c024c' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23300354' cx='50' cy='300' r='50'/%3E%3Cg fill='%2334045c' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23380463' cx='50' cy='400' r='50'/%3E%3Cg fill='%233c056b' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%233f0673' cx='50' cy='500' r='50'/%3E%3Cg fill='%2343087a' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23470981' cx='50' cy='600' r='50'/%3E%3Cg fill='%234a0a89' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%234d0c90' cx='50' cy='700' r='50'/%3E%3Cg fill='%23510d97' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23540f9e' cx='50' cy='800' r='50'/%3E%3Cg fill='%235710a5' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%235a12ac' cx='50' cy='900' r='50'/%3E%3Cg fill='%235d14b2' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%236016B9' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+	background-attachment: fixed;
+	background-size: contain;
+	color: #FFFFFF;
+}
