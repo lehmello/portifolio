@@ -211,6 +211,10 @@
 	.sobre p{
 		text-align: center;
 	}
+	.eu-img{
+		padding: 0;
+		margin: 0;
+	}
 	.menu {
 		bottom: 0;
 		text-align: center;
@@ -277,5 +281,12 @@
 @media (max-width: 630px){
 	.grid2 {
 		grid-template-columns: 1fr;
+	}
+}
+@media (max-width: 400px){
+	.eu-img{
+		padding: 0;
+		border: 0;
+		display: flex;
 	}
 }
