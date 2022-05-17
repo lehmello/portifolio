@@ -188,7 +188,7 @@
 }
 .back-top{
 	position: fixed;
-	bottom: 2rem;
+	bottom: 4rem;
 	right: 2rem;
 	width: 3.5rem;
 	height: 3.5rem;
@@ -279,14 +279,68 @@
 	}
 }
 @media (max-width: 630px){
-	.grid2 {
-		grid-template-columns: 1fr;
+
+	.contact-img img{
+		width: 50px;
+		height: 50px;
 	}
 }
 @media (max-width: 400px){
 	.eu-img{
 		padding: 0;
 		border: 0;
+		height: 280px;
+		width: 280px;
 		display: flex;
 	}
+	
+	.sobre-text p{
+		font-size: 1.7rem;
+	}
+
+	.itens p{
+		font-size: 1.7rem;
+	}
+
+	.itens2 p{
+		font-size: 1.7rem;
+	}
+
+	.sobre h1{
+		font-size: 4.5rem;
+	}
+
+	.itens h5{
+		font-size: 3rem;
+	}
+
+	.title-content h4{
+		font-size: 3rem;
+	}
+
+	.itens2 h6{
+		font-size: 2.5rem;
+	}
+
+	.grid-one-content h2{
+		font-size: 3.5rem;
+	}
+
+	.grid-contact h2{
+		font-size: 3.5rem;
+	}
+
+	.contact-img{
+		margin-right: 2rem;
+	  	margin-left: 2rem;
+	  	margin-bottom: 1rem;
+	  	margin-top: 1rem;
+	}
+
+	.contact-img img{
+		width: 30px;
+		height: 30px;
+	}
+
+
 }
